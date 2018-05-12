@@ -27,6 +27,8 @@ creator:
     - http://nl.wikipedia.org/wiki/Louis_Couperus
     - http://en.wikipedia.org/wiki/Louis_Couperus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33779#MajestyA-Novel
 gutenberg_issued: '2010-09-20'
 gutenberg_type: Text
 identifiers:
